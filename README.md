@@ -17,25 +17,6 @@ This was my **first React project**, where I learned core concepts like:
 - Clean UI with centered layout  
 - Built entirely using React Functional Components
 
----
-
-## 📸 Screenshot
-
-> ![outputScreenShot](image.png)
-
----
-
-## 📁 Folder Structure
-
-counter-app/
-├─ src/
-│ ├─ components/
-│ │ └─ Counter.jsx
-│ ├─ App.jsx
-│ └─ main.jsx
-├─ public/
-├─ package.json
-└─ vite.config.js
 
 ---
 
