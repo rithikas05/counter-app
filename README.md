@@ -1,22 +1,29 @@
 # 🔢 React Counter App
 
-A simple and elegant Counter App built using **React JS**. This was my **first React project**, where I learned core concepts like:
+A simple and elegant Counter App built using **React JS**.  
+This was my **first React project**, where I learned core concepts like:
 
-- JSX
-- Functional Components
-- `useState` Hook
-- Event Handling
+- JSX  
+- Functional Components  
+- `useState` Hook  
+- Event Handling  
 - Component Styling
+
+---
 
 ## 🚀 Features
 
-- Increase / Decrease / Reset the counter
-- Clean UI with centered layout
+- ➕ Increase / ➖ Decrease / 🔁 Reset the counter  
+- Clean UI with centered layout  
 - Built entirely using React Functional Components
+
+---
 
 ## 📸 Screenshot
 
-> Add a screenshot of your app if you want (you can upload to GitHub or use Snipping Tool and attach)
+> ![outputScreenShot](image.png)
+
+---
 
 ## 📁 Folder Structure
 
@@ -30,6 +37,7 @@ counter-app/
 ├─ package.json
 └─ vite.config.js
 
+---
 
 ## 📦 Technologies Used
 
@@ -38,13 +46,16 @@ counter-app/
 - HTML, CSS (inline styling)
 - Git & GitHub
 
+---
+
 ## 💡 What I Learned
 
-- Using `useState` to manage dynamic values
-- Creating and organizing components
-- Styling with inline CSS
-- Handling user interactions
+- Using `useState` to manage dynamic values  
+- Creating and organizing components  
+- Styling with inline CSS  
+- Handling user interactions and events
 
+---
 
 ## 📌 How to Run Locally
 
@@ -54,7 +65,7 @@ cd counter-app
 npm install
 npm run dev
 
-🌟 Author
-Built with 💙 by Rithika Senthil
 
+## 🌟 Author
 
+Built with 💙 by [Rithika Senthil](https://github.com/rithikas05)
